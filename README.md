@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sally</h1>
 <h3 align="center">Artist turned Full Stack Developer</h3>
 
-- 🔭 I’m currently & constantly working on [Twitter Clone](https://twitter-skimby.herokuapp.com/)
+- 🔭 I’m currently & constantly working on [Chirpette](https://twitter-skimby.herokuapp.com/)
 
 - 🌱 I’m currently learning **Docker**
 
