@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently & constantly working on [Chirpette](https://twitter-skimby.herokuapp.com/)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **TypeScript
+- 💬 Ask me about **React/Redux**
 
 
 <h3 align="left">Languages and Tools:</h3>
