@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sally</h1>
 <h3 align="center">Artist/Designer turned Full Stack Developer</h3>
 
-- 🔭 I’m currently & constantly working on [Chirpette](https://twitter-skimby.herokuapp.com/)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **React/Redux**
 
 
 <h3 align="left">Languages and Tools:</h3>
